@@ -34,7 +34,7 @@ def train():
     fp16=True, 
     warmup_ratio=0.1,
     lr_scheduler_type="linear", 
-    num_train_epochs=1, 
+    num_train_epochs=0.5, 
     save_strategy="epoch",
     push_to_hub=True,
   )
