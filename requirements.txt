@@ -217,7 +217,7 @@ typer @ file:///home/conda/feedstock_root/build_artifacts/typer_1667832226065/wo
 typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1665144421445/work
 unicodedata2 @ file:///home/conda/feedstock_root/build_artifacts/unicodedata2_1667239485250/work
 urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1673452138552/work
-wandb==0.14.0
+wandb==0.15.8
 wasabi @ file:///home/conda/feedstock_root/build_artifacts/wasabi_1673945957322/work
 wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1673864653149/work
 webencodings==0.5.1

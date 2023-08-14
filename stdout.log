@@ -1,0 +1,24 @@
+Token will not been saved to git credential helper. Pass `add_to_git_credential=True` if you want to set the git credential as well.
+Token is valid (permission: write).
+Your token has been saved to /home/ec2-user/.cache/huggingface/token
+Login successful
+Setting up model...
+Applying LoRA ...
+Parameter-efficient fine-tuning (training)...
+{'loss': 1.279, 'learning_rate': 0.00010204081632653062, 'epoch': 0.01}
+{'loss': 1.0511, 'learning_rate': 0.00019954415954415955, 'epoch': 0.02}
+{'loss': 1.0621, 'learning_rate': 0.00018814814814814817, 'epoch': 0.02}
+{'loss': 1.0422, 'learning_rate': 0.00017675213675213676, 'epoch': 0.03}
+{'loss': 1.0446, 'learning_rate': 0.00016535612535612538, 'epoch': 0.04}
+{'loss': 1.035, 'learning_rate': 0.00015396011396011397, 'epoch': 0.05}
+{'loss': 1.044, 'learning_rate': 0.00014279202279202278, 'epoch': 0.05}
+{'loss': 1.0361, 'learning_rate': 0.0001313960113960114, 'epoch': 0.06}
+{'loss': 1.0362, 'learning_rate': 0.00012, 'epoch': 0.07}
+{'loss': 1.0426, 'learning_rate': 0.00010860398860398862, 'epoch': 0.08}
+{'loss': 1.0351, 'learning_rate': 9.720797720797721e-05, 'epoch': 0.08}
+{'loss': 1.0314, 'learning_rate': 8.581196581196581e-05, 'epoch': 0.09}
+{'loss': 1.0207, 'learning_rate': 7.441595441595442e-05, 'epoch': 0.1}
+{'loss': 1.0317, 'learning_rate': 6.301994301994302e-05, 'epoch': 0.11}
+{'train_runtime': 18686.8165, 'train_samples_per_second': 0.417, 'train_steps_per_second': 0.104, 'train_loss': 1.0564267217776195, 'epoch': 0.11}
+Pushing LoRA adapators to Hub...
+Done!
